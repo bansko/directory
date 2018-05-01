@@ -27,7 +27,6 @@ angular.module('directoryApp')
       'walking',
       'hiking',
       'trekking',
-      'mindfulness',
       'meditation',
       'relaxation',
       'cycling',
