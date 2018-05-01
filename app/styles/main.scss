@@ -89,3 +89,37 @@ body {
     border-bottom: 0;
   }
 }
+ul.tag-cloud {
+  display: inline-block;
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+ul.tag-cloud>li {
+  list-style: none;
+  display: inline;
+  margin: 5px;
+  padding: 0;
+  text-align: center;
+  display: inline-block;
+}
+ul.tag-cloud>li>a.tag-0 {
+  font-size: 0.75em;
+}
+ul.tag-cloud>li>a.tag-1 {
+  font-size: 1em;
+}
+ul.tag-cloud>li>a.tag-2 {
+  font-size: 1.25em;
+}
+ul.tag-cloud>li>a.tag-3 {
+  font-size: 1.5em;
+}
+ul.tag-cloud>li>a.tag-4 {
+  font-size: 1.75em;
+}
+ul.tag-cloud>li>a.tag-5 {
+  font-size: 2em;
+}
