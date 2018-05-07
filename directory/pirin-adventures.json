@@ -5,6 +5,9 @@
     "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures-64x64.png",
     "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures-128x128.png"
   },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures-700.png"
+  },
   "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures.md",
   "contact": {
     "telephone": [
