@@ -23,6 +23,6 @@ angular.module('directoryApp')
       return a;
     }
     BusinessApi.query({}, function (businesses) {
-      $scope.tags = shuffle([...new Set([].concat.apply([], businesses.map(x => x.tags)))]).map(function(x){ return {text: x, size: getRandomSize(6)};});
+      $scope.tags = shuffle([...new Set([].concat.apply([], businesses.map(function(x){ return x.tags;})))]).map(function(x){ return {text: x, size: getRandomSize(6)};});
     });
   });
