@@ -12,14 +12,13 @@ angular.module('directoryApp')
     $scope.businessId = $routeParams.businessId;
     BusinessApi.get({ businessId: $routeParams.businessId }, function (business) {
       $scope.business = business;
+      $http.get(business.markdown + '?' + Math.floor(Date.now())).then(
+        function(response) {
+          $scope.response = response;
+          $scope.markdown = response.data;
+        },
+        function(responseError) {
+        }
+      );
     });
-    var url = 'https://raw.githubusercontent.com/bansko/directory/master/directory/';
-    $http.get(url + $routeParams.businessId + '.md?' + Math.floor(Date.now())).then(
-      function(response) {
-        $scope.response = response;
-        $scope.markdown = response.data;
-      },
-      function(responseError) {
-      }
-    );
   });
