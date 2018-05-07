@@ -1,6 +1,7 @@
 [
   {
     "id": "patricia",
+    "live": true,
     "tags": [
       "health",
       "mindfulness",
@@ -10,6 +11,7 @@
   },
   {
     "id": "pirin-adventures",
+    "live": true,
     "tags": [
       "health",
       "walking",
@@ -21,6 +23,7 @@
   },
   {
     "id": "oxo-schools",
+    "live": false,
     "tags": [
       "health",
       "cycling",
@@ -32,6 +35,7 @@
   },
   {
     "id": "peak-fitness-bansko",
+    "live": true,
     "tags": [
       "health",
       "running",
