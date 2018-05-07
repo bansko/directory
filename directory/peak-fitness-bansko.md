@@ -1,0 +1,1 @@
+All fitness levels welcome, come along and get motivated in the beautiful outdoors.

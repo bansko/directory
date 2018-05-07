@@ -27,5 +27,16 @@
       "mtb",
       "mountain-biking"
     ]
+  },
+  {
+    "id": "peak-fitness-bansko",
+    "tags": [
+      "health",
+      "running",
+      "fitness",
+      "exercise",
+      "workout",
+      "bootcamp"
+    ]
   }
 ]
