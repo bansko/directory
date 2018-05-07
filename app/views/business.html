@@ -1,4 +1,18 @@
 <h2>{{business.title}}</h2>
 <h4>{{business.subtitle}}</h4>
-<img src="{{business.cover['630x420']}}" />
+<img src="{{business.cover['630x420']}}" ng-show="business.cover['630x420']" />
 <div marked="markdown" class="mc-lg" ng-show="markdown"></div>
+<ul class="business-contact">
+    <li ng-repeat="telephone in business.contact.telephone" class="telephone">
+        {{telephone}}
+    </li>
+    <li ng-repeat="email in business.contact.email" class="email">
+        <a href="mailto:{{email}}">{{email}}</a>
+    </li>
+    <li ng-repeat="url in business.contact.url" class="url">
+        <a href="{{url}}">{{url.replace('https://', '').replace('http://', '')}}</a>
+    </li>
+    <li ng-repeat="facebook in business.contact.facebook" class="facebook">
+        <a href="{{facebook}}">{{facebook.replace('https://fb.com/', '')}}</a>
+    </li>
+</ul>

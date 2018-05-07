@@ -135,3 +135,43 @@ ul.business-list>li>a>img {
   margin-right: 10px;
   margin-bottom: 10px;
 }
+
+ul.business-contact li {
+  display: block;
+}
+ul.business-contact li.telephone:before {
+  font-family: 'Glyphicons Halflings';
+  content: "\e182";
+  float: left;
+  font-size: 9px;
+  margin-top: 4px;
+  margin-left: -17px;
+  color: #333;
+}
+ul.business-contact li.email:before {
+  font-family: 'Glyphicons Halflings';
+  content: "\2709";
+  float: left;
+  font-size: 9px;
+  margin-top: 4px;
+  margin-left: -17px;
+  color: #333;
+}
+ul.business-contact li.url:before {
+  font-family: 'Glyphicons Halflings';
+  content: "\e135";
+  float: left;
+  font-size: 9px;
+  margin-top: 4px;
+  margin-left: -17px;
+  color: #333;
+}
+ul.business-contact li.facebook:before {
+  font-family: 'Glyphicons Halflings';
+  content: "\e125";
+  float: left;
+  font-size: 9px;
+  margin-top: 4px;
+  margin-left: -17px;
+  color: #333;
+}
