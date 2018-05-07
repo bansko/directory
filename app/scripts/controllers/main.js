@@ -8,7 +8,7 @@
  * Controller of the directoryApp
  */
 angular.module('directoryApp')
-  .controller('MainCtrl', function ($scope) {
+  .controller('MainCtrl', function ($scope, BusinessApi) {
     function getRandomSize(max) {
       return Math.floor(Math.random() * Math.floor(max));
     }
@@ -22,32 +22,15 @@ angular.module('directoryApp')
       }
       return a;
     }
-    $scope.tags = shuffle([
-      'health',
-      'walking',
-      'hiking',
-      'trekking',
-      'meditation',
-      'relaxation',
-      'cycling',
-      'rafting',
-      'boating',
-      'running',
-      'jogging',
-      'fitness',
-      'yoga',
-      'pilates',
-      'spa',
-      'gym',
-      'swimming',
-      'exercise',
-      'mindfulness',
-      'mountain biking',
-      'enduro',
-      'trail',
-      'sauna',
-      'jacuzzi',
-      'steam bath',
-      'hot spring'
-    ]).map(function(x){ return {text: x, size: getRandomSize(6)};});
+    BusinessApi.query({}, function (businesses) {
+      $scope.tags = businesses[0].tags;
+      // concat all tag arrays
+
+      //var tags = [].concat.apply([], businesses.map(x => x.tags));
+      //$scope.tags = tags;
+      //$scope.tags = tags.map(function(x){ return {text: x, size: getRandomSize(6)};});
+      // reduce to unique tags
+      //tags = [...new Set(tags)];
+      //$scope.tags = shuffle().map(function(x){ return {text: x, size: getRandomSize(6)};});
+    });
   });
