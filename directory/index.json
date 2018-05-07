@@ -12,9 +12,20 @@
     "id": "pirin-adventures",
     "tags": [
       "health",
-      "Walking",
+      "walking",
       "hiking",
-      "trekking"
+      "trekking",
+      "snow-shoe-walking"
+    ]
+  },
+  {
+    "id": "oxo-schools",
+    "tags": [
+      "health",
+      "cycling",
+      "enduro",
+      "mtb",
+      "mountain-biking"
     ]
   }
 ]

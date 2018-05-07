@@ -23,14 +23,6 @@ angular.module('directoryApp')
       return a;
     }
     BusinessApi.query({}, function (businesses) {
-      $scope.tags = businesses[0].tags;
-      // concat all tag arrays
-
-      //var tags = [].concat.apply([], businesses.map(x => x.tags));
-      //$scope.tags = tags;
-      //$scope.tags = tags.map(function(x){ return {text: x, size: getRandomSize(6)};});
-      // reduce to unique tags
-      //tags = [...new Set(tags)];
-      //$scope.tags = shuffle().map(function(x){ return {text: x, size: getRandomSize(6)};});
+      $scope.tags = shuffle([...new Set([].concat.apply([], businesses.map(x => x.tags)))]).map(function(x){ return {text: x, size: getRandomSize(6)};});
     });
   });

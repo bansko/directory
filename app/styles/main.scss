@@ -123,3 +123,15 @@ ul.tag-cloud>li>a.tag-4 {
 ul.tag-cloud>li>a.tag-5 {
   font-size: 2em;
 }
+
+ul.business-list {
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+ul.business-list>li>a>img {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}

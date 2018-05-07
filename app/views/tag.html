@@ -1,1 +1,12 @@
-<p>This is the tag view.</p>
+<h2>{{tagId}}</h2>
+
+<ul class="business-list">
+  <li ng-repeat="business in businesses" class="clearfix">
+    <a ng-href="/#!/directory/{{business.id}}">
+      <img src="{{business.thumbnail['64x64']}}" class="pull-left" />
+      <strong>{{business.title}}</strong>
+    </a>
+    <br />
+    {{business.subtitle}}
+  </li>
+</ul>

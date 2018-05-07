@@ -25,7 +25,7 @@ angular
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
-      .when('/tag/:tag', {
+      .when('/tag/:tagId', {
         templateUrl: 'views/tag.html',
         controller: 'TagCtrl',
         controllerAs: 'tag'
