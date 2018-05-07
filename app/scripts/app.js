@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'hc.marked'
   ])
   .config(function ($routeProvider) {
     $routeProvider
@@ -24,10 +25,15 @@ angular
         controller: 'MainCtrl',
         controllerAs: 'main'
       })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl',
-        controllerAs: 'about'
+      .when('/tag/:tag', {
+        templateUrl: 'views/tag.html',
+        controller: 'TagCtrl',
+        controllerAs: 'tag'
+      })
+      .when('/directory/:businessId', {
+        templateUrl: 'views/business.html',
+        controller: 'BusinessCtrl',
+        controllerAs: 'business'
       })
       .otherwise({
         redirectTo: '/'

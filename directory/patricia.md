@@ -1,7 +1,3 @@
-# Mindfulness, Meditation and Deep Relaxation
-
-## Learn Simple and practical techniques to enhance health and wellbeing, reduce stress and improve concentration and communication.
-
 ### A compassionate guide to a better way of life.
 - Group workshops comprising 5 x 1 hour sessions plus 1 half day retreat : 40 Bg lv
 - Mini workshops comprising 1 or 2 sessions for small groups arranged on request

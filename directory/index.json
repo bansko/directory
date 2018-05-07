@@ -1,56 +1,8 @@
 [
     {
-        "title": "Mindfulness, Meditation and Deep Relaxation",
-        "description": "Learn Simple and practical techniques to enhance health and wellbeing, reduce stress and improve concentration and communication.",
-        "thumbnail": {
-            "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/patricia-64x64.png",
-            "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/patricia-128x128.png",
-            "256x256": "https://raw.githubusercontent.com/bansko/directory/master/directory/patricia-256x256.png"
-        },
-        "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/patricia.md",
-        "contact": {
-            "telephone": [
-                "+359886658708"
-            ],
-            "facebook": [
-                "https://fb.com/patricia.whales.5"
-            ]
-        },
-        "tags": [
-            "health",
-            "mindfulness",
-            "meditation",
-            "relaxation"
-        ]
+        "id": "patricia"
     },
     {
-        "title": "Pirin Adventures",
-        "description": "Walking, hiking & trekking holidays in Bulgaria",
-        "thumbnail": {
-            "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures-64x64.png",
-            "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures-128x128.png"
-        },
-        "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures.md",
-        "contact": {
-            "telephone": [
-                "+447957136608",
-                "+441138155667"
-            ],
-            "facebook": [
-                "https://fb.com/pirinadventures"
-            ],
-            "url": [
-                "http://pirinadventures.co.uk/"
-            ],
-            "email": [
-                "info@pirinadventures.com"
-            ]
-        },
-        "tags": [
-            "health",
-            "Walking",
-            "hiking",
-            "trekking"
-        ]
+        "id": "pirin-adventures"
     }
 ]
