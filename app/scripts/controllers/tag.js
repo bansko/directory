@@ -14,9 +14,8 @@ angular.module('directoryApp')
       $scope.businesses = businesses.filter(function (x) { return x.tags.includes($routeParams.tagId); });
       $scope.businesses = $scope.businesses.map(function(x, i) {
         BusinessApi.get({businessId: x.id}, function(b) {
-          //$scope.businesses[i] = {...$scope.businesses[i], ...b};
           $scope.businesses[i] = Object.assign($scope.businesses[i], b)
-        })
+        });
         return x;
       });
     });
