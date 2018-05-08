@@ -1,0 +1,28 @@
+{
+  "title": "MTB Bansko",
+  "subtitle": "Go where the trails take you",
+  "thumbnail": {
+    "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/mtb-bansko/64x64.png",
+    "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/mtb-bansko/128x128.png"
+  },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/mtb-bansko/mtb-bansko-700x362.png"
+  },
+  "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/mtb-bansko/readme.md",
+  "contact": {
+    "telephone": [
+      "+359889582245",
+      "+441614081790"
+    ],
+    "facebook": [
+      "https://fb.com/groups/132731756763405"
+    ],
+    "url": [
+      "https://www.mtbbansko.com/"
+    ],
+    "email": [
+      "info@mtbbansko.com",
+      "info@devonshirelodge.com"
+    ]
+  }
+}

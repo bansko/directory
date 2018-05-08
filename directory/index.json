@@ -18,7 +18,7 @@
       "exercise",
       "hiking",
       "trekking",
-      "snow-shoe-walking"
+      "snow shoe walking"
     ]
   },
   {
@@ -30,7 +30,7 @@
       "exercise",
       "enduro",
       "mtb",
-      "mountain-biking"
+      "mountain biking"
     ]
   },
   {
@@ -53,6 +53,19 @@
       "exercise",
       "swimming",
       "aerobics"
+    ]
+  },
+  {
+    "id": "mtb-bansko",
+    "live": true,
+    "tags": [
+      "health",
+      "cycling",
+      "exercise",
+      "enduro",
+      "mtb",
+      "mountain biking",
+      "road biking"
     ]
   }
 ]
