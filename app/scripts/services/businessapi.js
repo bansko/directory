@@ -17,7 +17,7 @@ angular.module('directoryApp')
       },
       {
         get: {
-          url: url + '/directory/' + ':businessId' + '.json?' + Math.floor(Date.now()),
+          url: url + '/directory/:businessId/index.json?' + Math.floor(Date.now()),
         },
         query: {
           url: url + '/directory/index.json?' + Math.floor(Date.now()),

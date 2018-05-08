@@ -1,0 +1,27 @@
+{
+  "title": "Pirin Adventures",
+  "subtitle": "Walking, hiking & trekking holidays in Bulgaria",
+  "thumbnail": {
+    "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures/64x64.png",
+    "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures/128x128.png"
+  },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures/700x183.png"
+  },
+  "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/pirin-adventures/readme.md",
+  "contact": {
+    "telephone": [
+      "+447957136608",
+      "+441138155667"
+    ],
+    "facebook": [
+      "https://fb.com/pirinadventures"
+    ],
+    "url": [
+      "http://pirinadventures.co.uk"
+    ],
+    "email": [
+      "info@pirinadventures.com"
+    ]
+  }
+}

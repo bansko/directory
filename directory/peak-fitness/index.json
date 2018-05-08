@@ -1,0 +1,20 @@
+{
+  "title": "Peak Fitness Bansko",
+  "subtitle": "Outside fitness group training for the Bansko community",
+  "thumbnail": {
+    "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/peak-fitness/64x64.png",
+    "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/peak-fitness/128x128.png"
+  },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/peak-fitness/700x400.jpg"
+  },
+  "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/readme.md",
+  "contact": {
+    "telephone": [
+      "+447788280738"
+    ],
+    "facebook": [
+      "https://fb.com/Peak-Fitness-Bansko-290097461524433"
+    ]
+  }
+}
