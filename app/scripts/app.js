@@ -38,4 +38,7 @@ angular
       .otherwise({
         redirectTo: '/'
       });
+  })
+  .run(function($rootScope, util) {
+    $rootScope.util = util;
   });
