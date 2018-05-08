@@ -35,6 +35,11 @@ angular
         controller: 'BusinessCtrl',
         controllerAs: 'business'
       })
+      .when('/privacy', {
+        templateUrl: 'views/privacy.html',
+        controller: 'PrivacyCtrl',
+        controllerAs: 'privacy'
+      })
       .otherwise({
         redirectTo: '/'
       });
