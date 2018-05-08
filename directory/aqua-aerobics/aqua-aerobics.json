@@ -1,0 +1,17 @@
+{
+  "title": "Aqua Aerobics in Bansko",
+  "subtitle": "Enjoy the water! Enjoy the sport! Enjoy yourself!",
+  "thumbnail": {
+    "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/aqua-aerobics/64x64.png",
+    "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/aqua-aerobics/128x128.png"
+  },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/aqua-aerobics/700x292.jpg"
+  },
+  "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/aqua-aerobics/aqua-aerobics.md",
+  "contact": {
+    "facebook": [
+      "https://fb.com/eli.sokerova"
+    ]
+  }
+}

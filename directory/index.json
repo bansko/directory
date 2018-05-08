@@ -44,5 +44,15 @@
       "workout",
       "bootcamp"
     ]
+  },
+  {
+    "id": "aqua-aerobics",
+    "live": true,
+    "tags": [
+      "health",
+      "exercise",
+      "swimming",
+      "aerobics"
+    ]
   }
 ]
