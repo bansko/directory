@@ -34,6 +34,12 @@ body {
     line-height: 40px;
     padding-bottom: 19px;
   }
+  
+  .navbar-brand {
+    img {
+      display: inline;
+    }
+  }
 }
 
 /* Custom page footer */
