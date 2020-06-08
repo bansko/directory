@@ -1,0 +1,2 @@
+We are delivering accountancy services for more than 10 years in Bulgaria and over 30 years in total -  We had offices in different spheres and countries but concentrate now only on companies in Bulgaria and managed by foreigners - or international activities.
+Our main office is located in Sofia and a hub in Bansko which we want to establish further.

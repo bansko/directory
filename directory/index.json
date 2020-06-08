@@ -67,5 +67,17 @@
       "mountain biking",
       "road biking"
     ]
+  },
+  {
+    "id": "vdm-international-eood",
+    "live": true,
+    "tags": [
+      "accountancy",
+      "administration",
+      "management",
+      "bookkeeping",
+      "salaries",
+      "companies"
+    ]
   }
 ]

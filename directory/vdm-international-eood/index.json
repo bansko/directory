@@ -1,0 +1,26 @@
+{
+  "title": "VDM International EOOD",
+  "subtitle": "Accountancy to foreigners in Bulgaria",
+  "thumbnail": {
+    "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/vdm-international-eood/64x64.jpg",
+    "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/vdm-international-eood/128x128.jpg"
+  },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/vdm-international-eood/700x255.jpg"
+  },
+  "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/vdm-international-eood/readme.md",
+  "contact": {
+    "telephone": [
+      "+359876660586"
+    ],
+    "facebook": [
+      "https://fb.com/herman.vandermosen"
+    ],
+    "url": [
+      "http://www.vdminternational.com"
+    ],
+    "email": [
+      "vdminternational@gmail.com"
+    ]
+  }
+}
