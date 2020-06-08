@@ -79,5 +79,24 @@
       "salaries",
       "companies"
     ]
+  },
+  {
+    "id": "bansko-tourist-information",
+    "live": true,
+    "tags": [
+      "apartment rental advice",
+      "transfer",
+      "lift pass",
+      "ski",
+      "snowboard",
+      "snowmobile",
+      "mountain guide",
+      "hiking",
+      "cycling",
+      "exercise",
+      "mtb",
+      "mountain biking",
+      "road biking"
+    ]
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "title": "Bansko Tourist Information",
+  "subtitle": "We offer a comprehensive tourism service for all visitors to Bansko inlcuding; arranging accommodation, transfers, winter and summer equipment hire, liftpasses plus, advice on places of interest and all the support you would expect before you arrive.",
+  "thumbnail": {
+    "64x64": "https://raw.githubusercontent.com/bansko/directory/master/directory/bansko-tourist-information/64x64.jpg",
+    "128x128": "https://raw.githubusercontent.com/bansko/directory/master/directory/bansko-tourist-information/128x128.jpg"
+  },
+  "cover": {
+    "700": "https://raw.githubusercontent.com/bansko/directory/master/directory/bansko-tourist-information/700x295.jpg"
+  },
+  "markdown": "https://raw.githubusercontent.com/bansko/directory/master/directory/bansko-tourist-information/readme.md",
+  "contact": {
+    "telephone": [
+      "+359886543262"
+    ],
+    "facebook": [
+      "https://fb.com/info4Bansko"
+    ],
+    "url": [
+      "http://www.banskotouristinformation.com"
+    ],
+    "email": [
+      "admin@banskotouristinformation.com"
+    ]
+  }
+}

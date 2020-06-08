@@ -1,0 +1,3 @@
+As a resident and lover of both #Bansko and Bulgaria we set up this daily web based newspaper to highlight current interesting and informative articles from a wide range of sources, both National and International about BG.  
+I found it hard to get honest info and services within Bansko back in Sept 2008 so decided to set up our own site offering: Summer & Winter activities, apt rental advice, transfers, lift passes, ski & board hire, snowmobiles, MTB Hire and guiding to MIAS Level 2 standard, hiking, business and apartment promotion plus, our office is one of 2 UK consular contacts in Bansko. 
+Drop in on the website if you need any more info and thank you for taking the time to enquire about Bansko.
